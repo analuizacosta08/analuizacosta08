@@ -4,10 +4,6 @@
 - 📚 Estou estudando: Lógica de Programação, HTML, CSS, JavaScript
 - 🌈 Pronomes: Ela/Dela
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=analuizacosta08&show_icons=true&theme=github_dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizacosta08&layout=compact&langs_count=7&theme=github_dracula"/>
-</div>
 
 ## Ferramentas e Tecnologias ⚙️
 <div style="display: inline_block"><br>
