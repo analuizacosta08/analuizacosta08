@@ -1,17 +1,24 @@
 ## Olá! Sejam muito bem-vindos! Eu sou a Ana Luiza 😊👋
 
 - 💻 Atualmente trabalho como Analista de Marketing Digital em uma empresa de tecnologia e estou me aventurando na área de desenvolvimento web Front-End.
-- 📚 Estou estudando: Lógica de Programação, HTML, CSS, JavaScript
+- 📚 Estou estudando: Lógica de Programação, HTML, CSS, JavaScript, React Native
 - 🌈 Pronomes: Ela/Dela
 
+<br>
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=analuizacosta08&show_icons=true&theme=github_dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizacosta08&layout=compact&langs_count=7&theme=github_dracula"/>
+</div>
 
 ## Ferramentas e Tecnologias ⚙️
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-Figma" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center" alt="Ana-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ana-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-React" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ana-Git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Ana-Figma" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 
 ## Contato 📩
